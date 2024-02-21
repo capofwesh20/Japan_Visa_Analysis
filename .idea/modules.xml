@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Visa Analysis.iml" filepath="$PROJECT_DIR$/.idea/Visa Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../VisaAnalytics/.idea/VisaAnalytics.iml" filepath="$PROJECT_DIR$/../VisaAnalytics/.idea/VisaAnalytics.iml" />
+    </modules>
+  </component>
+</project>
